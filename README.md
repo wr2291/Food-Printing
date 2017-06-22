@@ -1,2 +1,2 @@
 # Food-Printing
-[Food Printing](http://www.creativemachineslab.com/digital-food.html) 
+This repository contains the code to generate G-code and find optical parameters for [Food Printing](http://www.creativemachineslab.com/digital-food.html) 
