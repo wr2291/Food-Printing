@@ -1,2 +1,2 @@
 # Food-Printing
-[a link] (http://www.creativemachineslab.com/digital-food.html)
+ link: http://www.creativemachineslab.com/digital-food.html [Food Printing]
